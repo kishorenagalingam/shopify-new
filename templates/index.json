@@ -15,14 +15,14 @@
         "slide_nU9hgx": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMAGE_889f0adb-fcbc-40ee-8e79-129b96093f31.png",
+            "image": "shopify:\/\/shop_images\/homepage-banner-1v3.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
