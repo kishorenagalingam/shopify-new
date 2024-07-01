@@ -15,7 +15,7 @@
         "slide_nU9hgx": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cafe-patio_925x_6757ce00-ba7a-4008-b063-ce9d5bd1d764.jpg",
+            "image": "shopify:\/\/shop_images\/IMAGE_889f0adb-fcbc-40ee-8e79-129b96093f31.png",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -29,29 +29,10 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
-        },
-        "slide_DGVcWf": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/condominium-interior-livingroom_925x_9a6203ab-b483-49b5-a98c-719bc78734b6.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide_nU9hgx",
-        "slide_DGVcWf"
+        "slide_nU9hgx"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -143,34 +124,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -199,7 +152,6 @@
         "product",
         "collection-1"
       ],
-      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -208,6 +160,34 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
         "padding_bottom": 36
       }
     },
@@ -285,8 +265,8 @@
     "slideshow_c3Ge87",
     "image_banner",
     "rich_text",
-    "featured_collection",
     "collage",
+    "featured_collection",
     "video",
     "multicolumn"
   ]
