@@ -45,73 +45,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_CExr4p": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_3.png",
-            "title": "Fitness Wear",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_4.png",
-            "title": "Shorts",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_5.png",
-            "title": "Fitness Band",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Frame_6.png",
-            "title": "Smart Watch",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_CExr4p",
-        "column1",
-        "column2",
-        "column3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collection_list_c6LJyd": {
       "type": "collection-list",
       "blocks": {
@@ -331,7 +264,6 @@
   },
   "order": [
     "slideshow_c3Ge87",
-    "multicolumn",
     "collection_list_c6LJyd",
     "image_banner",
     "rich_text",
