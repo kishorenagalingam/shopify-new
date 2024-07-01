@@ -180,7 +180,7 @@
       "settings": {
         "title": "Explore Our Innovative Products",
         "heading_size": "h2",
-        "text_alignment": "left",
+        "text_alignment": "center",
         "description": "",
         "show_description": false,
         "description_style": "body",
