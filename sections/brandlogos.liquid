@@ -1,0 +1,48 @@
+{% schema %}
+{
+  "name": "Brand Logo",
+  "tag": "section",
+  "class": "brand-logo-section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Title",
+      "default": "Our Brand Partners"
+    },
+    {
+      "type": "textarea",
+      "id": "description",
+      "label": "Description",
+      "default": "Discover the brands we work with"
+    },
+    {
+      "type": "collection",
+      "id": "logo_collection",
+      "label": "Logo Collection"
+    },
+    {
+      "type": "range",
+      "id": "logo_size",
+      "min": 50,
+      "max": 250,
+      "step": 10,
+      "unit": "px",
+      "label": "Logo Size",
+      "default": 150
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background Color",
+      "default": "#FFFFFF"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Our Partners",
+      "category": "Brand"
+    }
+  ]
+}
+{% endschema %}
